@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a570ff7-db77-4f96-b957-fda4bf843e7a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ProjectId" id="2qtEEqFuFOUKF9rrPY55dSKNkdV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/torch_points3d/metrics" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyDebuggerOptionsProvider">
+    <option name="mySupportGeventDebugging" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Instancechangedetection\code\Point-based-Linux1\torch_points3d\metrics" />
+      <recent name="F:\Instancechangedetection\code\Point-based-Linux1\torch_points3d\datasets" />
+      <recent name="F:\Instancechangedetection\code\Point-based-Linux1\conf\training" />
+      <recent name="F:\Instancechangedetection\code\Point-based-Linux1\torch_points3d\datasets\change_detection" />
+      <recent name="F:\Instancechangedetection\code\Point-based-Linux1\conf\data\change_detection" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.eval_SiamKPConv">
+    <configuration name="eval_SiamKPConv" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Point-based" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/eval_SiamKPConv.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="trainSiamKPConv" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Point-based" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/trainSiamKPConv.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.eval_SiamKPConv" />
+        <item itemvalue="Python.trainSiamKPConv" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a570ff7-db77-4f96-b957-fda4bf843e7a" name="Default Changelist" comment="" />
+      <created>1735473362927</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735473362927</updated>
+      <workItem from="1735473371263" duration="16244000" />
+      <workItem from="1735533246280" duration="8721000" />
+      <workItem from="1735547081132" duration="3586000" />
+      <workItem from="1735552151704" duration="977000" />
+      <workItem from="1735553192129" duration="7783000" />
+      <workItem from="1735563437015" duration="64516000" />
+      <workItem from="1736130928763" duration="521000" />
+      <workItem from="1736385543541" duration="15245000" />
+      <workItem from="1736412602723" duration="17716000" />
+      <workItem from="1736475830694" duration="50317000" />
+      <workItem from="1737286818155" duration="1201000" />
+      <workItem from="1737289052020" duration="6096000" />
+      <workItem from="1737431566619" duration="33474000" />
+      <workItem from="1739239443953" duration="16000" />
+      <workItem from="1739239501011" duration="21888000" />
+      <workItem from="1739444236455" duration="674000" />
+      <workItem from="1739446401023" duration="20340000" />
+      <workItem from="1739752964961" duration="20000" />
+      <workItem from="1739754753831" duration="32032000" />
+      <workItem from="1739860202047" duration="26210000" />
+      <workItem from="1740445082794" duration="35412000" />
+      <workItem from="1741055269504" duration="16410000" />
+      <workItem from="1741277196396" duration="15756000" />
+      <workItem from="1741570428975" duration="6774000" />
+      <workItem from="1741747702813" duration="19603000" />
+      <workItem from="1742024915252" duration="4984000" />
+      <workItem from="1742204622441" duration="4990000" />
+      <workItem from="1742354544681" duration="9748000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1705" y="71" width="1156" height="677" key="#Deployment" timestamp="1742562205902">
+      <screen x="-1920" y="0" width="1920" height="1032" />
+    </state>
+    <state x="-1705" y="71" key="#Deployment/-1920.0.1920.1032/0.0.1920.1032@-1920.0.1920.1032" timestamp="1742562205902" />
+    <state x="215" y="71" key="#Deployment/-1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1742348598138" />
+    <state x="-1705" y="71" key="#Deployment/-1920.0.1920.1032/0.0.1920.1080@-1920.0.1920.1032" timestamp="1740476379746" />
+    <state x="-1705" y="71" key="#Deployment/0.0.1920.1032/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1735780366419" />
+    <state x="215" y="71" width="1156" height="677" key="#Deployment/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1735622569453" />
+    <state x="215" y="71" key="#Deployment/0.0.1920.1032@0.0.1920.1032" timestamp="1739405123192" />
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1742196433842">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="-1506" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1920.1032/0.0.1920.1032@-1920.0.1920.1032" timestamp="1741531837464" />
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1742196433842" />
+    <state x="-1506" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1032/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1735780359310" />
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1735780313486" />
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1737286948376" />
+    <state width="1862" height="517" key="DebuggerActiveHint" timestamp="1739863194181">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1862" height="517" key="DebuggerActiveHint/-1920.0.1920.1032/0.0.1920.1032@-1920.0.1920.1032" timestamp="1739764523954" />
+    <state width="1862" height="517" key="DebuggerActiveHint/-1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1739242129117" />
+    <state width="1862" height="517" key="DebuggerActiveHint/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1739863194181" />
+    <state width="1862" height="517" key="DebuggerActiveHint/0.0.1920.1032@0.0.1920.1032" timestamp="1738728536147" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1736754769578">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/-1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1736754769578" />
+    <state width="914" height="409" key="GridCell.Tab.0.bottom" timestamp="1742778574101">
+      <screen x="-1920" y="0" width="1920" height="1032" />
+    </state>
+    <state width="914" height="409" key="GridCell.Tab.0.bottom/-1920.0.1920.1032/0.0.1920.1032@-1920.0.1920.1032" timestamp="1742778574101" />
+    <state width="1877" height="304" key="GridCell.Tab.0.bottom/-1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1742369050789" />
+    <state width="594" height="377" key="GridCell.Tab.0.bottom/-1920.0.1920.1032/0.0.1920.1080@-1920.0.1920.1032" timestamp="1740476709359" />
+    <state width="1877" height="377" key="GridCell.Tab.0.bottom/-1920.0.1920.1032/0.0.1920.1080@0.0.1920.1080" timestamp="1740447789545" />
+    <state width="1877" height="377" key="GridCell.Tab.0.bottom/0.0.1920.1032/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1740361030674" />
+    <state width="1877" height="393" key="GridCell.Tab.0.bottom/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1739933599793" />
+    <state width="1877" height="224" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1739752941938" />
+    <state width="914" height="409" key="GridCell.Tab.0.center" timestamp="1742778574101">
+      <screen x="-1920" y="0" width="1920" height="1032" />
+    </state>
+    <state width="914" height="409" key="GridCell.Tab.0.center/-1920.0.1920.1032/0.0.1920.1032@-1920.0.1920.1032" timestamp="1742778574101" />
+    <state width="1877" height="304" key="GridCell.Tab.0.center/-1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1742369050789" />
+    <state width="594" height="377" key="GridCell.Tab.0.center/-1920.0.1920.1032/0.0.1920.1080@-1920.0.1920.1032" timestamp="1740476709359" />
+    <state width="1877" height="377" key="GridCell.Tab.0.center/-1920.0.1920.1032/0.0.1920.1080@0.0.1920.1080" timestamp="1740447789545" />
+    <state width="1877" height="377" key="GridCell.Tab.0.center/0.0.1920.1032/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1740361030674" />
+    <state width="1877" height="393" key="GridCell.Tab.0.center/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1739933599792" />
+    <state width="1877" height="224" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1739752941938" />
+    <state width="914" height="409" key="GridCell.Tab.0.left" timestamp="1742778574101">
+      <screen x="-1920" y="0" width="1920" height="1032" />
+    </state>
+    <state width="914" height="409" key="GridCell.Tab.0.left/-1920.0.1920.1032/0.0.1920.1032@-1920.0.1920.1032" timestamp="1742778574101" />
+    <state width="1877" height="304" key="GridCell.Tab.0.left/-1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1742369050789" />
+    <state width="594" height="377" key="GridCell.Tab.0.left/-1920.0.1920.1032/0.0.1920.1080@-1920.0.1920.1032" timestamp="1740476709359" />
+    <state width="1877" height="377" key="GridCell.Tab.0.left/-1920.0.1920.1032/0.0.1920.1080@0.0.1920.1080" timestamp="1740447789545" />
+    <state width="1877" height="377" key="GridCell.Tab.0.left/0.0.1920.1032/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1740361030673" />
+    <state width="1877" height="393" key="GridCell.Tab.0.left/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1739933599792" />
+    <state width="1877" height="224" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1739752941938" />
+    <state width="914" height="409" key="GridCell.Tab.0.right" timestamp="1742778574101">
+      <screen x="-1920" y="0" width="1920" height="1032" />
+    </state>
+    <state width="914" height="409" key="GridCell.Tab.0.right/-1920.0.1920.1032/0.0.1920.1032@-1920.0.1920.1032" timestamp="1742778574101" />
+    <state width="1877" height="304" key="GridCell.Tab.0.right/-1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1742369050789" />
+    <state width="594" height="377" key="GridCell.Tab.0.right/-1920.0.1920.1032/0.0.1920.1080@-1920.0.1920.1032" timestamp="1740476709359" />
+    <state width="1877" height="377" key="GridCell.Tab.0.right/-1920.0.1920.1032/0.0.1920.1080@0.0.1920.1080" timestamp="1740447789545" />
+    <state width="1877" height="377" key="GridCell.Tab.0.right/0.0.1920.1032/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1740361030674" />
+    <state width="1877" height="393" key="GridCell.Tab.0.right/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1739933599792" />
+    <state width="1877" height="224" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1739752941938" />
+    <state width="914" height="368" key="GridCell.Tab.1.bottom" timestamp="1742197036678">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="369" key="GridCell.Tab.1.bottom/-1920.0.1920.1032/0.0.1920.1032@-1920.0.1920.1032" timestamp="1741055192026" />
+    <state width="914" height="368" key="GridCell.Tab.1.bottom/-1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1742197036678" />
+    <state width="914" height="369" key="GridCell.Tab.1.bottom/0.0.1920.1032/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1739863768764" />
+    <state width="1877" height="369" key="GridCell.Tab.1.bottom/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1739863164871" />
+    <state width="1877" height="224" key="GridCell.Tab.1.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1739752941938" />
+    <state width="914" height="368" key="GridCell.Tab.1.center" timestamp="1742197036678">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="369" key="GridCell.Tab.1.center/-1920.0.1920.1032/0.0.1920.1032@-1920.0.1920.1032" timestamp="1741055192026" />
+    <state width="914" height="368" key="GridCell.Tab.1.center/-1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1742197036678" />
+    <state width="914" height="369" key="GridCell.Tab.1.center/0.0.1920.1032/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1739863768763" />
+    <state width="1877" height="369" key="GridCell.Tab.1.center/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1739863164871" />
+    <state width="1877" height="224" key="GridCell.Tab.1.center/0.0.1920.1032@0.0.1920.1032" timestamp="1739752941938" />
+    <state width="914" height="368" key="GridCell.Tab.1.left" timestamp="1742197036678">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="369" key="GridCell.Tab.1.left/-1920.0.1920.1032/0.0.1920.1032@-1920.0.1920.1032" timestamp="1741055192026" />
+    <state width="914" height="368" key="GridCell.Tab.1.left/-1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1742197036678" />
+    <state width="914" height="369" key="GridCell.Tab.1.left/0.0.1920.1032/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1739863768763" />
+    <state width="1877" height="369" key="GridCell.Tab.1.left/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1739863164870" />
+    <state width="1877" height="224" key="GridCell.Tab.1.left/0.0.1920.1032@0.0.1920.1032" timestamp="1739752941938" />
+    <state width="914" height="368" key="GridCell.Tab.1.right" timestamp="1742197036678">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="369" key="GridCell.Tab.1.right/-1920.0.1920.1032/0.0.1920.1032@-1920.0.1920.1032" timestamp="1741055192026" />
+    <state width="914" height="368" key="GridCell.Tab.1.right/-1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1742197036678" />
+    <state width="914" height="369" key="GridCell.Tab.1.right/0.0.1920.1032/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1739863768764" />
+    <state width="1877" height="369" key="GridCell.Tab.1.right/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1739863164871" />
+    <state width="1877" height="224" key="GridCell.Tab.1.right/0.0.1920.1032@0.0.1920.1032" timestamp="1739752941938" />
+    <state x="-1457" y="161" key="SettingsEditor" timestamp="1739866721614">
+      <screen x="-1920" y="0" width="1920" height="1032" />
+    </state>
+    <state x="463" y="161" key="SettingsEditor/-1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1736412982903" />
+    <state x="-1457" y="161" key="SettingsEditor/0.0.1920.1032/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1739866721614" />
+    <state x="463" y="161" key="SettingsEditor/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1735627468150" />
+    <state width="1540" height="523" key="XDebugger.FullValuePopup" timestamp="1739763288388">
+      <screen x="-1920" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1540" height="523" key="XDebugger.FullValuePopup/-1920.0.1920.1032/0.0.1920.1032@-1920.0.1920.1032" timestamp="1739763288388" />
+    <state width="1540" height="523" key="XDebugger.FullValuePopup/-1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1736424975575" />
+    <state width="1540" height="523" key="XDebugger.FullValuePopup/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1735610612283" />
+    <state x="-1901" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1741055274326">
+      <screen x="-1920" y="0" width="1920" height="1032" />
+    </state>
+    <state x="-1901" y="343" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1032/0.0.1920.1032@-1920.0.1920.1032" timestamp="1741055274326" />
+    <state x="19" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1739752977474" />
+    <state x="953" y="0" width="974" height="1039" key="dock-window-1" timestamp="1736498779103">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="953" y="0" width="974" height="1039" key="dock-window-1/-1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1736498779103" />
+    <state x="948" y="0" width="979" height="1039" key="dock-window-1/0.0.1920.1032/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1735791329550" />
+    <state x="953" y="0" width="974" height="1039" key="dock-window-1/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1735632375339" />
+    <state x="971" y="140" width="930" height="606" key="dock-window-2" timestamp="1736733997066">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="971" y="140" width="930" height="606" key="dock-window-2/-1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1736733997066" />
+    <state x="953" y="0" width="974" height="1039" key="dock-window-3" timestamp="1736734039525">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="953" y="0" width="974" height="1039" key="dock-window-3/-1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1736734039525" />
+    <state x="647" y="101" width="1026" height="660" key="find.popup" timestamp="1739242299979">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="-1273" y="271" width="626" height="490" key="find.popup/-1920.0.1920.1032/0.0.1920.1032@-1920.0.1920.1032" timestamp="1736832727705" />
+    <state x="647" y="101" width="1026" height="660" key="find.popup/-1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1739242299979" />
+    <state x="647" y="271" width="626" height="490" key="find.popup/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1735786083861" />
+    <state x="647" y="271" width="626" height="490" key="find.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1738726821976" />
+    <state x="675" y="252" width="583" height="527" key="ftp.server.browser" timestamp="1735473445811">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="675" y="252" width="583" height="527" key="ftp.server.browser/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1735473445811" />
+    <state x="616" y="169" width="670" height="676" key="search.everywhere.popup" timestamp="1735539793228">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="616" y="169" width="670" height="676" key="search.everywhere.popup/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1735539793228" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/datasets/batch.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/datasets/multiscale_data.py</url>
+          <line>63</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/models/change_detection/inst_cd_nonconcat.py</url>
+          <line>1095</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/datasets/change_detection/Urb3DiCD.py</url>
+          <line>355</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/datasets/base_dataset.py</url>
+          <line>386</line>
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/metrics/urb3DiCD_tracker.py</url>
+          <line>568</line>
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/models/change_detection/inst_cd_nonconcat.py</url>
+          <line>608</line>
+          <option name="timeStamp" value="187" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/trainer.py</url>
+          <line>264</line>
+          <option name="timeStamp" value="196" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/trainer.py</url>
+          <line>203</line>
+          <option name="timeStamp" value="197" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/metrics/urb3DiCD_tracker.py</url>
+          <line>569</line>
+          <option name="timeStamp" value="205" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/metrics/urb3DiCD_tracker.py</url>
+          <line>574</line>
+          <option name="timeStamp" value="209" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/metrics/urb3DiCD_tracker.py</url>
+          <line>575</line>
+          <option name="timeStamp" value="210" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/metrics/urb3DiCD_tracker.py</url>
+          <line>529</line>
+          <option name="timeStamp" value="211" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/models/change_detection/inst_cd_nonconcat.py</url>
+          <line>1070</line>
+          <option name="timeStamp" value="217" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/models/change_detection/inst_cd_nonconcat.py</url>
+          <line>1048</line>
+          <option name="timeStamp" value="218" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/models/change_detection/inst_cd_nonconcat.py</url>
+          <line>1099</line>
+          <option name="timeStamp" value="219" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/core/data_transform/grid_transform.py</url>
+          <line>116</line>
+          <option name="timeStamp" value="270" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/metrics/urb3DiCD_tracker.py</url>
+          <line>412</line>
+          <option name="timeStamp" value="281" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/metrics/urb3DiCD_tracker.py</url>
+          <line>418</line>
+          <option name="timeStamp" value="282" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/models/change_detection/inst_cluster_and_softmax.py</url>
+          <line>1271</line>
+          <option name="timeStamp" value="298" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/metrics/ahnicd_tracker.py</url>
+          <line>2128</line>
+          <option name="timeStamp" value="302" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/metrics/ahnicd_tracker.py</url>
+          <line>2122</line>
+          <option name="timeStamp" value="303" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/metrics/ahnicd_tracker.py</url>
+          <line>2067</line>
+          <option name="timeStamp" value="326" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/metrics/ahnicd_tracker.py</url>
+          <line>1915</line>
+          <option name="timeStamp" value="328" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/models/change_detection/inst_cluster_and_softmax.py</url>
+          <line>710</line>
+          <option name="timeStamp" value="330" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/datasets/change_detection/AHNiCD.py</url>
+          <line>564</line>
+          <option name="timeStamp" value="332" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Point_based$trainSiamKPConv.coverage" NAME="trainSiamKPConv Coverage Results" MODIFIED="1736393154712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Point_based_Linux1$trainSiamKPConv.coverage" NAME="trainSiamKPConv Coverage Results" MODIFIED="1742369050785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Point_based_Linux1$eval_SiamKPConv.coverage" NAME="eval_SiamKPConv Coverage Results" MODIFIED="1742562248943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
